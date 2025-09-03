@@ -10,7 +10,7 @@ bmiForm.addEventListener("submit", function (e) {
   const weight = form.querySelector("#weight").value;
   const height = form.querySelector("#height").value;
 
-  console.log("Write your logic here");
+  
   console.log("Write your logic here");
   //Write your logic here.
   //Logic begins
@@ -28,3 +28,4 @@ document.querySelector("#reset").addEventListener("click", function (e) {
   bmiForm.querySelector("#height").value = "";
   bmiForm.querySelector("#result").textContent = "";
 });
+

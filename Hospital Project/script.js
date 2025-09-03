@@ -11,6 +11,7 @@ bmiForm.addEventListener("submit", function (e) {
   const height = form.querySelector("#height").value;
 
   console.log("Write your logic here");
+  console.log("Write your logic here");
   //Write your logic here.
   //Logic begins
 
